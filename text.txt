@@ -1,0 +1,4 @@
+DONE SO FAR
+
+login and signup ui 
+activated authentication in firebase
